@@ -1,7 +1,7 @@
 from openai import OpenAI
 import webbrowser
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR_KEY')
 
 
 class Entity:
